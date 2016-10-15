@@ -1,0 +1,31 @@
+body{
+	font-family: "Roboto", sans-serif;
+}
+
+header {
+	background-color: gold;
+	padding: 12px 17px;
+	margin-bottom: 40px;
+}
+
+.title {
+	margin: 0;
+}
+
+.subtitle {
+	margin: 0;
+}
+
+.card {
+	margin-bottom: 20px;
+	width: 300px;
+	border: 1px solid silver;
+}
+
+.card-picture {
+	width: 300px;
+}
+
+.card-content {
+	padding-left: 15px;
+}
