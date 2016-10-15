@@ -18,12 +18,11 @@ header {
 
 .card {
 	margin-bottom: 20px;
-	width: 300px;
 	border: 1px solid silver;
 }
 
 .card-picture {
-	width: 300px;
+	width: 100%;
 }
 
 .card-content {
